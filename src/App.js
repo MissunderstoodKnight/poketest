@@ -1,5 +1,4 @@
-import Axios from 'axios';
-import React, {useEffect, useState} from 'react';
+import React from 'react';
 import { Switch, Route } from 'react-router-dom'
 import Home from './Components/Home'
 import Detail from './Components/Detail'
